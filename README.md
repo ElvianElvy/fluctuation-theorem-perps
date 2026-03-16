@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Fluctuation Theorem Perps
 
 Non-equilibrium thermodynamics of cryptocurrency perpetual futures.
@@ -27,3 +28,7 @@ Use **Windows Terminal** (not cmd.exe) for Unicode output.
 Embedded columnar OLAP database. Key feature: ASOF JOIN for
 aligning funding timestamps to nearest basis measurement.
 Single file: `data/ftp.duckdb`.
+=======
+# fluctuation-theorem-perps
+Non-equilibrium thermodynamics of cryptocurrency perpetual futures — Jarzynski equality, regime classification, and physics-informed trading. Paper + full codebase.
+>>>>>>> 9344c6673d985c76bfc0b73de94fd185817a259b
